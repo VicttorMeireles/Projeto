@@ -13,7 +13,7 @@
         background-color: #00007F;
     }
 
-    #container {
+    header div {
         display: flex;
         align-items: center;
         flex-direction: column;
@@ -66,16 +66,7 @@
 
 }
 
-
-
-
-                                    /* LOGIN PAGE*/
-
-
-
-
-
-#text-login {
+h2 {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -84,6 +75,11 @@
     font-weight: 600;
     color: #00007F;
 }
+
+
+/* LOGIN PAGE*/
+
+
 
 #container-login {
     padding: 10px;
@@ -106,17 +102,17 @@
     color: #fff;
     background-color: #00007F;
     border: 1px solid #000;
-    border-radius: 50px;
+    border-radius: 5px;
     margin: 15px 0;
     cursor: pointer;
 }
 
-#link-botton-entrar{
-    text-decoration: none;  
+#link-botton-entrar {
+    text-decoration: none;
     color: #fff;
 }
 
-#link-register{
+#link-register {
     margin-top: 18px;
     font-size: 12px;
 }
@@ -124,29 +120,19 @@
 
 
 
-                                /* CADASTRO */
+/* CADASTRO */
 
 
 
 
-#text-register {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    margin: 15px auto;
-    font-size: 30px;
-    font-weight: 600;
-    color: #00007F;
-}
-
-#container-register{
+#container-register {
     display: flex;
     align-items: center;
     flex-direction: column;
     padding: 10px;
     background-color: #00000015;
     width: 240px;
-    height: 250px;
+    height: 255px;
     border-radius: 10px;
 }
 
@@ -157,12 +143,12 @@
     color: #fff;
     background-color: #00007F;
     border: 1px solid #000;
-    border-radius: 50px;
-    margin: 15px 0;
+    border-radius: 5px;
+    margin: 5px 0;
     cursor: pointer;
 }
 
-.input-form-register{
+.input-form-register {
     width: 160px;
     height: 20px;
     font-size: 10px;
@@ -172,16 +158,6 @@
     margin-bottom: 10px;
 }
 
-                                /* OPERAÇÕES */
+/* OPERAÇÕES */
 
-                                /*QUALITY GATE*/
-
-#text-qualitygate{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    margin: 15px auto;
-    font-size: 30px;
-    font-weight: 600;
-    color: #00007F;
-}
+/*QUALITY GATE*/
