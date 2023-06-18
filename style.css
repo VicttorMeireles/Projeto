@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -64,7 +66,14 @@
 
 }
 
-/* LOGIN PAGE*/
+
+
+
+                                    /* LOGIN PAGE*/
+
+
+
+
 
 #text-login {
     display: flex;
@@ -112,7 +121,14 @@
     font-size: 12px;
 }
 
-/* CADASTRO */
+
+
+
+                                /* CADASTRO */
+
+
+
+
 #text-register {
     display: flex;
     align-items: center;
@@ -154,4 +170,18 @@
     border-radius: 5px;
     text-align: none;
     margin-bottom: 10px;
+}
+
+                                /* OPERAÇÕES */
+
+                                /*QUALITY GATE*/
+
+#text-qualitygate{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px auto;
+    font-size: 30px;
+    font-weight: 600;
+    color: #00007F;
 }
