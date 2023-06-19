@@ -1,12 +1,22 @@
-const inputLogin = document.querySelector("#input-email-login")
-const inputPassword = document.querySelector("#input-password-login")
+let inputLogin = document.querySelector("#input-email-login")
+let inputPassword = document.querySelector("#input-password-login")
 const buttonLogin = document.querySelector("#button-login")
+const url = "http://127.0.0.1:5500/opera%C3%A7%C3%B5es.html"
 
-function clickButton (event){
-    const inputLogin = document.querySelector("#input-email-login").value
-    const inputPassword = document.querySelector("#input-password-login").value
+const users = [
+    { name: "admin", password:"admin" },
+    { name: "operador", password:"admin" }
+]
 
-    console.log(inputLogin, inputPassword)
+
+function accessPage() {
+    for (i = 0; i < users.length; i++) {
+        if(inputLogin.value === users[i].name & inputPassword.value === users[i].password) {
+            let win = window.open(url,"_blank");
+            win.focus();
+        }
+       
+    }
 }
 
-buttonLogin.addEventListener ("click", clickButton)
+buttonLogin.addEventListener("click", accessPage )
