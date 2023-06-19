@@ -35,6 +35,12 @@
         margin: 0 auto;
     }
 
+   ol{
+    padding: 25px;
+   }
+
+    }
+
     ul {
         list-style: none;
         background-color: #00000015;
@@ -64,7 +70,7 @@
         border: 1px solid #000;
     }
 
-}
+
 
 h2 {
     display: flex;
