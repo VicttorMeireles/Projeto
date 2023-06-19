@@ -2,6 +2,7 @@
 const niles = document.querySelector("#niles")
 const url19 = "http://127.0.0.1:5500/5-ajuste-medidas-niles.html"
 const url21 = "http://127.0.0.1:5500/5-setup.html"
+const url25 = "http://127.0.0.1:5500/5-alarmes.html"
 
 function openNiles(){
 
@@ -9,8 +10,11 @@ function openNiles(){
     if (niles.value == "19"){
         window.location.href = url19
     }
-    else if ( niles.value == "21"){
+    if ( niles.value == "21"){
         window.location.href = url21
+    }
+    if (niles.value == "25"){
+        window.location.href = url25
     }
 }
 
