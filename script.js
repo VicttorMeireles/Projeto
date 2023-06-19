@@ -19,4 +19,8 @@ function accessPage() {
     }
 }
 
-buttonLogin.addEventListener("click", accessPage )
+buttonLogin.addEventListener("click", accessPage)
+
+
+//OPERAÇÕES//
+//QUALITY GATE//
