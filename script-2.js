@@ -1,7 +1,6 @@
-//PITTLER//
-
 const pittler = document.querySelector("#pittler")
 const url13 = "http://127.0.0.1:5500/4-start-maquina.html"
+const url14 = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
 
 function openPittler() {
 
@@ -9,6 +8,9 @@ function openPittler() {
         if (pittler.value == "13") {
             window.location.href = url13
         }
+    if (pittler.value == "14") {
+        window.location.href = url14
+    }
 }
 
 pittler.addEventListener("change", openPittler)
@@ -50,9 +52,9 @@ function openQG() {
         if (QG.value == "33") {
             window.location.href = url33
         }
-        else if (QG.value == "34") {
-            window.location.href = url34
-        }
+    if (QG.value == "34") {
+        window.location.href = url34
+    }
 }
 
 QG.addEventListener("change", openQG)
