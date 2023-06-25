@@ -12,8 +12,7 @@ const users = [
 function accessPage() {
     for (i = 0; i < users.length; i++) {
         if(inputLogin.value === users[i].name & inputPassword.value === users[i].password) {
-            let win = window.open(url);
-            win.focus();
+            window.location.href = url
         }
        
     }
