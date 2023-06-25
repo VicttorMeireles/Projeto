@@ -1,15 +1,19 @@
 const pittler = document.querySelector("#pittler")
 const url13 = "http://127.0.0.1:5500/4-start-maquina.html"
 const url14 = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
+const url15 = "http://127.0.0.1:5500/4-troca-de-ferramentas.html"
 
 function openPittler() {
 
     for (i = 0; i < pittler.options.length; i++)
         if (pittler.value == "13") {
-            window.location.href = "http://127.0.0.1:5500/4-start-maquina.html"
+            window.location.href = url13
         }
     if (pittler.value == "14") {
-        window.location.href = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
+        window.location.href = url14
+    }
+    if (pittler.value == "15"){
+        window.location.href = url15
     }
 }
 
