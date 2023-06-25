@@ -4,12 +4,12 @@ const url14 = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
 
 function openPittler() {
 
-    for (i = 0; pittler.options.length; i++)
+    for (i = 0; i < pittler.options.length; i++)
         if (pittler.value == "13") {
-            window.location.href = url13
+            window.location.href = "http://127.0.0.1:5500/4-start-maquina.html"
         }
     if (pittler.value == "14") {
-        window.location.href = url14
+        window.location.href = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
     }
 }
 
@@ -50,10 +50,10 @@ function openQG() {
 
     for (i = 0; i < QG.options.length; i++)
         if (QG.value == "33") {
-            window.location.href = url33
+            window.location.href = "http://127.0.0.1:5500/8-Inspecaodepecas.html"
         }
     if (QG.value == "34") {
-        window.location.href = url34
+        window.location.href = "http://127.0.0.1:5500/8-rugosidade.html"
     }
 }
 
