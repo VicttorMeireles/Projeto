@@ -13,6 +13,8 @@ function accessPage() {
     for (i = 0; i < users.length; i++) {
         if(inputLogin.value === users[i].name & inputPassword.value === users[i].password) {
             window.location.href = url
+        }if (inputLogin.value != users[i].name & inputPassword.value != users[i].password){
+            alert ("Senha ou usuário estão incorretos!")
         }
        
     }
