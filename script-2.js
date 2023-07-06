@@ -1,3 +1,18 @@
+//GEHRING//
+
+const gehring = document.querySelector("#gehring")
+const url12 = "http://127.0.0.1:5500/1-alarmes.html"
+
+function openGehring(){
+
+    for(i = 0; i < gehring.options.length; i++)
+        if (gehring.value == "12"){
+            window.location.href = url12
+        }
+}
+
+gehring.addEventListener("change", openGehring)
+
 const pittler = document.querySelector("#pittler")
 const url13 = "http://127.0.0.1:5500/4-start-maquina.html"
 const url14 = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
