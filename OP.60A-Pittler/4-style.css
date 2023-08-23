@@ -518,12 +518,11 @@ header h1 {
 
 #paragrafh-6 img {
   position: relative;
-  top: 7%;
-  left: 6%;
-  width: 250px;
-  margin-left: 100px;
-  border: 1px solid #000;
-  border-radius: 10px;
+  display: inline-block;
+  top: 0;
+  left: 8%;
+  width: 150px;
+  margin-left: 50px;
 }
 
 #sixth-point {
