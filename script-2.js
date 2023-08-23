@@ -16,7 +16,7 @@ gehring.addEventListener("change", openGehring)
 const pittler = document.querySelector("#pittler")
 const url13 = "http://127.0.0.1:5500/4-start-maquina.html"
 const url14 = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
-const url15 = "http://127.0.0.1:5500/4-troca-de-ferramentas.html"
+const url15 = "http://127.0.0.1:5500/OP.60A-Pittler/4-troca-de-ferramentas.html"
 
 function openPittler() {
 
