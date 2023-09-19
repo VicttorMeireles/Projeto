@@ -1,0 +1,87 @@
+1-Ligar chave geral no painel elétrico da máquina, que fica localizado atrás da brunidora Gehring. OK
+
+2-Soltar o botão de emêrgencia, se estiver pressionado, no painel IHM principal da máquina e fechar as portas dos dois canais e das duas entradas para o Jenoptik. OK
+
+3-Para abrir a porta ao lado Jenoptik. OK
+
+4-Pressione o botão preto. OK
+
+5-Gire a maçaneta para abrir a porta. OK
+
+6-Pressionar o botão azul. OK
+
+7-Fechar a porta e girar a maçaneta para fechar a porta.
+
+8-Pressionar o botão azul.
+
+9-Após fechar a porta ao lado do Jenoptik, fechar a porta ao lado da gaveta CEP.
+
+10-Pressionar o botão preto.
+
+11-Gire a maçaneta para abrir a porta.
+
+12-Pressionar o botão azul.
+
+13-Fechar a porta e girar a maçaneta para fechar a porta.
+
+14-Pressionar o botão azul.
+
+15-Pressionar o botão "Parada de emergência", botão azul que fica no meio do painel IHM principal da máquina.
+
+16-Pressionar o botão "MC1 BLOQUEIO DE SEGURANÇA" e o botão "MC2 BLOQUEIO DE SEGURANÇA".
+
+17-Pressionar o botão "RESET".
+
+18-Pressionar o botão "ALARM CANCEL".
+
+19-Passar a máquina para manual, pressionando o botão "JOG".
+
+20--> Sempre que a máquina for ligada, será necessário fazer o "TEST SI" na máquina.
+
+21-Para fazer o "TEST SI" é necessário pressionar o botão "Menu Select".
+
+22-Pressionar o botão "Pittler".
+
+23-Pressionar o botão "Manutenção".
+
+24-Pressionar o botão "SI TEST".
+
+25-Pressionar o botão "Iniciar SI TEST".
+
+26-Vai disparar vários alarmes e iniciar uma contagem regressiva para o próximo TEST SI. (9 horas)
+
+27-Após fazer o "TEST SI", fechar o avanço colocando o potenciômetro em zero.
+
+Calibrar Jenoptik
+
+
+
+28-Pressionar o botão "RESET".
+
+29-Pressionar o botão "AUTO".
+
+30-Pressionar o botão "MASKIN START".
+
+31-Após pressionar este botão irá iniciar o proceso de usinagem nos dois canais simultaneamente.
+
+32-A peça será enviada para o Jenoptik, para ser medida, enquanto isso o processo ficará parado esperando o resultado da medição.
+
+33-Se a peça estiver OK -> Start da máquina é automatico.
+
+34-Se a peça estiver NOK -> Máquina ficará parada aguardando correção.
+
+35-Pressionar o botão "MENU SELECT".
+
+36-Pressionar o botão "PITTLER".
+
+37-Pressionar o botão "USINAGEM".
+
+38-Pressionar o botão "MC1 CORR." ou "MC2 CORR.", dependendo do canal que a peça foi rejeitada.
+
+39-Pressionar o botão " NOK 100% Correção".
+
+40- A usinagem será iniciada e uma peça piloto será feita.
+
+41-PEÇA PILOTO é a primeira peça após o inicio do processo, após reset e trocas de ferramentas.
+
+42-Após sair a primeira peça aprovada a máquina inicia automaticamente o processo de usinagem.

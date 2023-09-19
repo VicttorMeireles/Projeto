@@ -1,3 +1,14 @@
+//                BOTÃO HEADER
+
+const buttonBack = document.querySelector("#button-header");
+const url = "http://127.0.0.1:5500/opera%C3%A7%C3%B5es.html";
+
+function clickButtonBack() {
+  history.back();
+}
+
+buttonBack.addEventListener("click", clickButtonBack);
+
 //                PASSO 1
 const parag1 = document.querySelector("#first-point");
 const button1 = document.querySelector("#button-1");

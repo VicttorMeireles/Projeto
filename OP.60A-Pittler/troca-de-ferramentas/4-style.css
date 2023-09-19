@@ -43,6 +43,11 @@ header h1 {
   padding: 10px;
 }
 
+header button{
+  width: 80px;
+  border: none;
+}
+
 #title {
   position: absolute;
   display: flex;
