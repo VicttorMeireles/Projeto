@@ -77,7 +77,7 @@ header h1 {
 
 /* PARAGRAFO 40 */
 
-#paragrafh-40{
+#paragrafh-40 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -91,14 +91,13 @@ header h1 {
   border-radius: 10px;
 }
 
-
-#fortieth-point{
-  z-index:61; 
-  }
+#fortieth-point {
+  z-index: 61;
+}
 
 /* PARAGRAFO 39 */
 
-#paragrafh-39{
+#paragrafh-39 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -110,13 +109,13 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-nineth-point{
-  z-index:62; 
-  }
+#thiertieth-nineth-point {
+  z-index: 62;
+}
 
 /* PARAGRAFO 38 */
 
-#paragrafh-38{
+#paragrafh-38 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -128,13 +127,13 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-eighth-point{
-  z-index:63; 
-  }
+#thiertieth-eighth-point {
+  z-index: 63;
+}
 
 /* PARAGRAFO 37 */
 
-#paragrafh-37{
+#paragrafh-37 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -146,13 +145,21 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-seventh-point{
-  z-index:64; 
-  }
+#paragrafh-37 img {
+  position: relative;
+  left: 25%;
+  top: 25%;
+  position: relative;
+  width: 300px;
+}
+
+#thiertieth-seventh-point {
+  z-index: 64;
+}
 
 /* PARAGRAFO 36 */
 
-#paragrafh-36{
+#paragrafh-36 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -164,13 +171,22 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-sixth-point{
-  z-index:65; 
-  }
+#paragrafh-36 img {
+  position: relative;
+  display: inline-block;
+  left: 6%;
+  top: 25%;
+  position: relative;
+  width: 230px;
+}
+
+#thiertieth-sixth-point {
+  z-index: 65;
+}
 
 /* PARAGRAFO 35 */
 
-#paragrafh-35{
+#paragrafh-35 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -182,13 +198,21 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-fifth-point{
-  z-index:66; 
-  }
+#paragrafh-35 img {
+  position: relative;
+  left: 23%;
+  top: 25%;
+  position: relative;
+  width: 300px;
+}
+
+#thiertieth-fifth-point {
+  z-index: 66;
+}
 
 /* PARAGRAFO 34 */
 
-#paragrafh-34{
+#paragrafh-34 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -200,13 +224,22 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-fourth-point{
-  z-index:67; 
-  }
+#paragrafh-34 img {
+  position: relative;
+  left: 15%;
+  top: 5%;
+  position: relative;
+  width: 250px;
+  margin-left: 80px;
+}
+
+#thiertieth-fourth-point {
+  z-index: 67;
+}
 
 /* PARAGRAFO 33 */
 
-#paragrafh-33{
+#paragrafh-33 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -218,13 +251,21 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-third-point{
-  z-index:68; 
-  }
+#paragrafh-33 img {
+  position: relative;
+  left: 15%;
+  position: relative;
+  width: 200px;
+  margin-left: 80px;
+}
+
+#thiertieth-third-point {
+  z-index: 68;
+}
 
 /* PARAGRAFO 32 */
 
-#paragrafh-32{
+#paragrafh-32 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -236,13 +277,13 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-second-point{
-  z-index:69; 
-  }
+#thiertieth-second-point {
+  z-index: 69;
+}
 
 /* PARAGRAFO 31 */
 
-#paragrafh-31{
+#paragrafh-31 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -254,13 +295,22 @@ header h1 {
   border-radius: 10px;
 }
 
-#thiertieth-first-point{
-  z-index:70; 
-  }
+#paragrafh-31 img {
+  position: relative;
+  left: 15%;
+  position: relative;
+  width: 200px;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+#thiertieth-first-point {
+  z-index: 70;
+}
 
 /* PARAGRAFO 30 */
 
-#paragrafh-30{
+#paragrafh-30 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -272,13 +322,13 @@ header h1 {
   border-radius: 10px;
 }
 
-#thirtieth-point{
-  z-index:71; 
-  }
+#thirtieth-point {
+  z-index: 71;
+}
 
 /* PARAGRAFO 29 */
 
-#paragrafh-29{
+#paragrafh-29 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -290,13 +340,22 @@ header h1 {
   border-radius: 10px;
 }
 
+#paragrafh-29 img {
+  position: relative;
+  left: 15%;
+  position: relative;
+  width: 170px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
 #twenty-nineth-point {
-  z-index:72; 
-  }
+  z-index: 72;
+}
 
 /* PARAGRAFO 28 */
 
-#paragrafh-28{
+#paragrafh-28 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -309,12 +368,12 @@ header h1 {
 }
 
 #twenty-eighth-point {
-  z-index:73;
-  }
+  z-index: 73;
+}
 
-  /* PARAGRAFO 27 */
+/* PARAGRAFO 27 */
 
-#paragrafh-27{
+#paragrafh-27 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -327,12 +386,12 @@ header h1 {
 }
 
 #twenty-seventh-point {
-  z-index:74;
-  }
+  z-index: 74;
+}
 
-  /* PARAGRAFO 26 */
+/* PARAGRAFO 26 */
 
-#paragrafh-26{
+#paragrafh-26 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -345,12 +404,12 @@ header h1 {
 }
 
 #twenty-sixth-point {
-  z-index:75;
-  }
+  z-index: 75;
+}
 
-  /* PARAGRAFO 25 */
+/* PARAGRAFO 25 */
 
-#paragrafh-25{
+#paragrafh-25 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -360,15 +419,24 @@ header h1 {
   margin-top: -100px;
   border: 1px solid #000;
   border-radius: 10px;
+}
+
+#paragrafh-25 img {
+  position: relative;
+  left: 10%;
+  position: relative;
+  width: 250px;
+  margin-left: 100px;
+  margin-top: 20px;
 }
 
 #twenty-fifth-point {
-  z-index:76;
-  }
+  z-index: 76;
+}
 
 /* PARAGRAFO 24 */
 
-#paragrafh-24{
+#paragrafh-24 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -380,13 +448,36 @@ header h1 {
   border-radius: 10px;
 }
 
+#paragrafh-24 img {
+  position: relative;
+  left: 10%;
+  position: relative;
+  width: 250px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
 #twenty-fourth-point {
-  z-index:77;
-  }
+  z-index: 77;
+}
+
+/* CALIBRAÇÃO JENOPTIK */
+#jenoptik-calibration{
+  display: flex;
+  justify-content: center;
+  margin-left: 150px;
+}
+
+/* VOLTAR PARA O PONTO 23*/
+#button-return-point-23 {
+  display: flex;
+  justify-content: center;
+  margin-left: 150px;
+}
 
 /* PARAGRAFO 23 */
 
-#paragrafh-23{
+#paragrafh-23 {
   width: 90%;
   height: 60%;
   padding: 1%;
@@ -399,8 +490,8 @@ header h1 {
 }
 
 #twenty-third-point {
-  z-index:78;
-  }
+  z-index: 78;
+}
 
 /* PARAGRAFO 22 */
 
@@ -414,6 +505,15 @@ header h1 {
   margin-top: -100px;
   border: 1px solid #000;
   border-radius: 10px;
+}
+
+#paragrafh-22 img {
+  position: relative;
+  left: 10%;
+  position: relative;
+  width: 250px;
+  margin-left: 100px;
+  margin-top: 20px;
 }
 
 #twenty-second-point {
@@ -436,14 +536,11 @@ header h1 {
 
 #paragrafh-21 img {
   position: relative;
-  top: 20%;
-  left: 6%;
+  left: 10%;
   position: relative;
-  width: 250px;
+  width: 190px;
   margin-left: 100px;
   margin-top: 20px;
-  border: 1px solid #000;
-  border-radius: 10px;
 }
 
 #twenty-first-point {
@@ -516,13 +613,15 @@ header h1 {
 
 #paragrafh-18 img {
   position: relative;
-  top: 20%;
-  left: 20%;
-  width: 300px;
+  display: inline-block;
+  top: 5%;
+  left: 4%;
+  width: 200px;
+  margin-left: 30px;
 }
 
 #eighteenth-point {
-  z-index:83;
+  z-index: 83;
 }
 
 /* PARAGRAFO 17 */
@@ -542,12 +641,12 @@ header h1 {
 #paragrafh-17 img {
   position: relative;
   top: 5%;
-  left: 25%;
-  width: 250px;
+  left: 35%;
+  width: 160px;
 }
 
 #seventeenth-point {
-  z-index:84;
+  z-index: 84;
 }
 
 /* PARAGRAFO 16 */
@@ -574,7 +673,7 @@ header h1 {
 }
 
 #sixteenth-point {
-  z-index:85;
+  z-index: 85;
 }
 
 /* PARAGRAFO 15 */
@@ -594,12 +693,13 @@ header h1 {
 #paragrafh-15 img {
   position: relative;
   top: -9%;
-  left: 30%;
-  width: 220px;
+  left: 10%;
+  margin-left: 30px;
+  width: 170px;
 }
 
 #fifteenth-point {
-  z-index:86;
+  z-index: 86;
 }
 
 /* PARAGRAFO 14 */
@@ -618,15 +718,16 @@ header h1 {
 
 #paragrafh-14 img {
   position: relative;
-  top: 1%;
-  left: 10%;
-  height: 250px;
-  margin-left: 100px;
+  display: inline-block;
+  top: 0;
+  left: 5%;
+  width: 190px;
+  margin-left: 30px;
   border-radius: 10px;
 }
 
 #fourteenth-point {
-  z-index:87;
+  z-index: 87;
 }
 
 /* PARAGRAFO 13 */
@@ -646,12 +747,12 @@ header h1 {
 #paragrafh-13 img {
   position: relative;
   top: 2%;
-  left: 30%;
+  left: 35%;
   height: 240px;
 }
 
 #thirteenth-point {
-  z-index:88;
+  z-index: 88;
 }
 
 /* PARAGRAFO 12 */
@@ -960,7 +1061,6 @@ header h1 {
 
 #first-point {
   z-index: 99;
-  
 }
 
 .buttons {

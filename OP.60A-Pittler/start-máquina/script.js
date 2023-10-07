@@ -547,6 +547,26 @@ function clickButtonDone23() {
 
 buttonDone23.addEventListener("click", clickButtonDone23);
 
+//              VOLTAR PARA O PASSO 23
+
+const buttonReturn23 = document.querySelector("#button-return-point-23");
+
+function clickButtonReturnPoint23() {
+  if ((parag32.style.display != "none") & (parag23.style.display === "none")) {
+    (parag23.style.display = "flex") &&
+      (parag24.style.display = "flex") &&
+      (parag25.style.display = "flex") &&
+      (parag26.style.display = "flex") &&
+      (parag27.style.display = "flex") &&
+      (parag28.style.display = "flex") &&
+      (parag29.style.display = "flex") &&
+      (parag30.style.display = "flex") &&
+      (parag31.style.display = "flex") ;
+  }
+}
+
+buttonReturn23.addEventListener("click", clickButtonReturnPoint23);
+
 //                PASSO 24
 
 const parag24 = document.querySelector("#twenty-fourth-point");
