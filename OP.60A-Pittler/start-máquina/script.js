@@ -514,3 +514,443 @@ function clickButtonBack22() {
 }
 
 buttonBack22.addEventListener("click", clickButtonBack22);
+
+function clickButtonDone22() {
+  if (parag22.style.display != "none") {
+    parag22.style.display = "none";
+  } else parag22.style.display != "none";
+}
+
+buttonDone22.addEventListener("click", clickButtonDone22);
+
+//                PASSO 23
+
+const parag23 = document.querySelector("#twenty-third-point");
+const buttonBack23 = document.querySelector("#button-back-23");
+const buttonDone23 = document.querySelector("#button-done-23");
+
+function clickButtonBack23() {
+  if (parag23.style.display != "none") {
+    parag22.style.display = "flex";
+  } else {
+    parag23.style.display != "none";
+  }
+}
+
+buttonBack23.addEventListener("click", clickButtonBack23);
+
+function clickButtonDone23() {
+  if (parag23.style.display != "none") {
+    parag23.style.display = "none";
+  } else parag23.style.display != "none";
+}
+
+buttonDone23.addEventListener("click", clickButtonDone23);
+
+//                PASSO 24
+
+const parag24 = document.querySelector("#twenty-fourth-point");
+const buttonBack24 = document.querySelector("#button-back-24");
+const buttonDone24 = document.querySelector("#button-done-24");
+
+function clickButtonBack24() {
+  if (parag24.style.display != "none") {
+    parag23.style.display = "flex";
+  } else {
+    parag24.style.display != "none";
+  }
+}
+
+buttonBack24.addEventListener("click", clickButtonBack24);
+
+function clickButtonDone24() {
+  if (parag24.style.display != "none") {
+    parag24.style.display = "none";
+  } else parag24.style.display != "none";
+}
+
+buttonDone24.addEventListener("click", clickButtonDone24);
+
+//                PASSO 25
+
+const parag25 = document.querySelector("#twenty-fifth-point");
+const buttonBack25 = document.querySelector("#button-back-25");
+const buttonDone25 = document.querySelector("#button-done-25");
+
+function clickButtonBack25() {
+  if (parag25.style.display != "none") {
+    parag24.style.display = "flex";
+  } else {
+    parag25.style.display != "none";
+  }
+}
+
+buttonBack25.addEventListener("click", clickButtonBack25);
+
+function clickButtonDone25() {
+  if (parag25.style.display != "none") {
+    parag25.style.display = "none";
+  } else parag25.style.display != "none";
+}
+
+buttonDone25.addEventListener("click", clickButtonDone25);
+
+//                PASSO 26
+
+const parag26 = document.querySelector("#twenty-sixth-point");
+const buttonBack26 = document.querySelector("#button-back-26");
+const buttonDone26 = document.querySelector("#button-done-26");
+
+function clickButtonBack26() {
+  if (parag26.style.display != "none") {
+    parag25.style.display = "flex";
+  } else {
+    parag26.style.display != "none";
+  }
+}
+
+buttonBack26.addEventListener("click", clickButtonBack26);
+
+function clickButtonDone26() {
+  if (parag26.style.display != "none") {
+    parag26.style.display = "none";
+  } else parag26.style.display != "none";
+}
+
+buttonDone26.addEventListener("click", clickButtonDone26);
+
+//                PASSO 27
+
+const parag27 = document.querySelector("#twenty-seventh-point");
+const buttonBack27 = document.querySelector("#button-back-27");
+const buttonDone27 = document.querySelector("#button-done-27");
+
+function clickButtonBack27() {
+  if (parag27.style.display != "none") {
+    parag26.style.display = "flex";
+  } else {
+    parag27.style.display != "none";
+  }
+}
+
+buttonBack27.addEventListener("click", clickButtonBack27);
+
+function clickButtonDone27() {
+  if (parag27.style.display != "none") {
+    parag27.style.display = "none";
+  } else parag27.style.display != "none";
+}
+
+buttonDone27.addEventListener("click", clickButtonDone27);
+
+//                PASSO 28
+
+const parag28 = document.querySelector("#twenty-eighth-point");
+const buttonBack28 = document.querySelector("#button-back-28");
+const buttonDone28 = document.querySelector("#button-done-28");
+
+function clickButtonBack28() {
+  if (parag28.style.display != "none") {
+    parag27.style.display = "flex";
+  } else {
+    parag28.style.display != "none";
+  }
+}
+
+buttonBack28.addEventListener("click", clickButtonBack28);
+
+function clickButtonDone28() {
+  if (parag28.style.display != "none") {
+    parag28.style.display = "none";
+  } else parag28.style.display != "none";
+}
+
+buttonDone28.addEventListener("click", clickButtonDone28);
+
+//                PASSO 29
+
+const parag29 = document.querySelector("#twenty-nineth-point");
+const buttonBack29 = document.querySelector("#button-back-29");
+const buttonDone29 = document.querySelector("#button-done-29");
+
+function clickButtonBack29() {
+  if (parag29.style.display != "none") {
+    parag28.style.display = "flex";
+  } else {
+    parag29.style.display != "none";
+  }
+}
+
+buttonBack29.addEventListener("click", clickButtonBack29);
+
+function clickButtonDone29() {
+  if (parag29.style.display != "none") {
+    parag29.style.display = "none";
+  } else parag29.style.display != "none";
+}
+
+buttonDone29.addEventListener("click", clickButtonDone29);
+
+//                PASSO 30
+
+const parag30 = document.querySelector("#thirtieth-point");
+const buttonBack30 = document.querySelector("#button-back-30");
+const buttonDone30 = document.querySelector("#button-done-30");
+
+function clickButtonBack30() {
+  if (parag30.style.display != "none") {
+    parag29.style.display = "flex";
+  } else {
+    parag30.style.display != "none";
+  }
+}
+
+buttonBack30.addEventListener("click", clickButtonBack30);
+
+function clickButtonDone30() {
+  if (parag30.style.display != "none") {
+    parag30.style.display = "none";
+  } else parag30.style.display != "none";
+}
+
+buttonDone30.addEventListener("click", clickButtonDone30);
+
+//                PASSO 31
+
+const parag31 = document.querySelector("#thiertieth-first-point");
+const buttonBack31 = document.querySelector("#button-back-31");
+const buttonDone31 = document.querySelector("#button-done-31");
+
+function clickButtonBack31() {
+  if (parag31.style.display != "none") {
+    parag30.style.display = "flex";
+  } else {
+    parag31.style.display != "none";
+  }
+}
+
+buttonBack31.addEventListener("click", clickButtonBack31);
+
+function clickButtonDone31() {
+  if (parag31.style.display != "none") {
+    parag31.style.display = "none";
+  } else parag31.style.display != "none";
+}
+
+buttonDone31.addEventListener("click", clickButtonDone31);
+
+//                PASSO 32
+
+const parag32 = document.querySelector("#thiertieth-second-point");
+const buttonBack32 = document.querySelector("#button-back-32");
+const buttonDone32 = document.querySelector("#button-done-32");
+
+function clickButtonBack32() {
+  if (parag32.style.display != "none") {
+    parag31.style.display = "flex";
+  } else {
+    parag32.style.display != "none";
+  }
+}
+
+buttonBack32.addEventListener("click", clickButtonBack32);
+
+function clickButtonDone32() {
+  if (parag32.style.display != "none") {
+    parag32.style.display = "none";
+  } else parag32.style.display != "none";
+}
+
+buttonDone32.addEventListener("click", clickButtonDone32);
+
+//                PASSO 33
+
+const parag33 = document.querySelector("#thiertieth-third-point");
+const buttonBack33 = document.querySelector("#button-back-33");
+const buttonDone33 = document.querySelector("#button-done-33");
+
+function clickButtonBack33() {
+  if (parag33.style.display != "none") {
+    parag32.style.display = "flex";
+  } else {
+    parag33.style.display != "none";
+  }
+}
+
+buttonBack33.addEventListener("click", clickButtonBack33);
+
+function clickButtonDone33() {
+  if (parag33.style.display != "none") {
+    parag33.style.display = "none";
+  } else parag33.style.display != "none";
+}
+
+buttonDone33.addEventListener("click", clickButtonDone33);
+
+//                PASSO 34
+
+const parag34 = document.querySelector("#thiertieth-fourth-point");
+const buttonBack34 = document.querySelector("#button-back-34");
+const buttonDone34 = document.querySelector("#button-done-34");
+
+function clickButtonBack34() {
+  if (parag34.style.display != "none") {
+    parag33.style.display = "flex";
+  } else {
+    parag34.style.display != "none";
+  }
+}
+
+buttonBack34.addEventListener("click", clickButtonBack34);
+
+function clickButtonDone34() {
+  if (parag34.style.display != "none") {
+    parag34.style.display = "none";
+  } else parag34.style.display != "none";
+}
+
+buttonDone34.addEventListener("click", clickButtonDone34);
+
+//                PASSO 35
+
+const parag35 = document.querySelector("#thiertieth-fifth-point");
+const buttonBack35 = document.querySelector("#button-back-35");
+const buttonDone35 = document.querySelector("#button-done-35");
+
+function clickButtonBack35() {
+  if (parag35.style.display != "none") {
+    parag34.style.display = "flex";
+  } else {
+    parag35.style.display != "none";
+  }
+}
+
+buttonBack35.addEventListener("click", clickButtonBack35);
+
+function clickButtonDone35() {
+  if (parag35.style.display != "none") {
+    parag35.style.display = "none";
+  } else parag35.style.display != "none";
+}
+
+buttonDone35.addEventListener("click", clickButtonDone35);
+
+//                PASSO 36
+
+const parag36 = document.querySelector("#thiertieth-sixth-point");
+const buttonBack36 = document.querySelector("#button-back-36");
+const buttonDone36 = document.querySelector("#button-done-36");
+
+function clickButtonBack36() {
+  if (parag36.style.display != "none") {
+    parag35.style.display = "flex";
+  } else {
+    parag36.style.display != "none";
+  }
+}
+
+buttonBack36.addEventListener("click", clickButtonBack36);
+
+function clickButtonDone36() {
+  if (parag36.style.display != "none") {
+    parag36.style.display = "none";
+  } else parag36.style.display != "none";
+}
+
+buttonDone36.addEventListener("click", clickButtonDone36);
+
+//                PASSO 37
+
+const parag37 = document.querySelector("#thiertieth-seventh-point");
+const buttonBack37 = document.querySelector("#button-back-37");
+const buttonDone37 = document.querySelector("#button-done-37");
+
+function clickButtonBack37() {
+  if (parag37.style.display != "none") {
+    parag36.style.display = "flex";
+  } else {
+    parag37.style.display != "none";
+  }
+}
+
+buttonBack37.addEventListener("click", clickButtonBack37);
+
+function clickButtonDone37() {
+  if (parag37.style.display != "none") {
+    parag37.style.display = "none";
+  } else parag37.style.display != "none";
+}
+
+buttonDone37.addEventListener("click", clickButtonDone37);
+
+//                PASSO 38
+
+const parag38 = document.querySelector("#thiertieth-eighth-point");
+const buttonBack38 = document.querySelector("#button-back-38");
+const buttonDone38 = document.querySelector("#button-done-38");
+
+function clickButtonBack38() {
+  if (parag38.style.display != "none") {
+    parag37.style.display = "flex";
+  } else {
+    parag38.style.display != "none";
+  }
+}
+
+buttonBack38.addEventListener("click", clickButtonBack38);
+
+function clickButtonDone38() {
+  if (parag38.style.display != "none") {
+    parag38.style.display = "none";
+  } else parag38.style.display != "none";
+}
+
+buttonDone38.addEventListener("click", clickButtonDone38);
+
+//                PASSO 39
+
+const parag39 = document.querySelector("#thiertieth-nineth-point");
+const buttonBack39 = document.querySelector("#button-back-39");
+const buttonDone39 = document.querySelector("#button-done-39");
+
+function clickButtonBack39() {
+  if (parag39.style.display != "none") {
+    parag38.style.display = "flex";
+  } else {
+    parag39.style.display != "none";
+  }
+}
+
+buttonBack39.addEventListener("click", clickButtonBack39);
+
+function clickButtonDone39() {
+  if (parag39.style.display != "none") {
+    parag39.style.display = "none";
+  } else parag39.style.display != "none";
+}
+
+buttonDone39.addEventListener("click", clickButtonDone39);
+
+//                PASSO 40
+
+const parag40 = document.querySelector("#fortieth-point");
+const buttonBack40 = document.querySelector("#button-back-40");
+const buttonDone40 = document.querySelector("#button-done-40");
+
+function clickButtonBack40() {
+  if (parag40.style.display != "none") {
+    parag39.style.display = "flex";
+  } else {
+    parag40.style.display != "none";
+  }
+}
+
+buttonBack40.addEventListener("click", clickButtonBack40);
+
+function clickButtonDone40() {
+  if (parag40.style.display != "none") {
+    parag40.style.display = "none";
+  } else parag40.style.display != "none";
+}
+
+buttonDone40.addEventListener("click", clickButtonDone40);

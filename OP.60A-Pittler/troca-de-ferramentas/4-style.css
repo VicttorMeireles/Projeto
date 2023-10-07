@@ -91,7 +91,7 @@ header button{
   box-sizing: border-box;
   padding: 10px 5px;
   background-color: rgb(76, 192, 76);
-  color: #fff;
+  color: #000;
   border: 1px solid #000;
   border-radius: 10px;
 }
