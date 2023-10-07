@@ -14,9 +14,9 @@ function openGehring(){
 gehring.addEventListener("change", openGehring)
 
 const pittler = document.querySelector("#pittler")
-const url13 = "http://127.0.0.1:5500/4-start-maquina.html"
-const url14 = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
-const url15 = "http://127.0.0.1:5500/OP.60A-Pittler/troca-de-ferramentas/4-troca-de-ferramentas.html"
+const url13 = "http://127.0.0.1:5500/OP.60A-Pittler/start-m%C3%A1quina/start-maquina.html"
+const url15 = "http://127.0.0.1:5500/4-ajuste-de-medidas-pittler.html"
+const url16 = "http://127.0.0.1:5500/OP.60A-Pittler/troca-de-ferramentas/4-troca-de-ferramentas.html"
 
 function openPittler() {
 
@@ -24,11 +24,11 @@ function openPittler() {
         if (pittler.value == "13") {
             window.location.href = url13
         }
-    if (pittler.value == "14") {
-        window.location.href = url14
-    }
-    if (pittler.value == "15"){
+    if (pittler.value == "15") {
         window.location.href = url15
+    }
+    if (pittler.value == "16"){
+        window.location.href = url16
     }
 }
 
